@@ -1,0 +1,6 @@
+@RpgMysticalforge_HostAddress = http://localhost:5170
+
+GET {{RpgMysticalforge_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
