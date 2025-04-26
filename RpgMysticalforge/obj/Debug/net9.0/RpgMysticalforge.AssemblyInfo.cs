@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RpgMysticalforge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e610b815c06996eaea0f762495dd6fa93922a6c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4d8ff9703f06af688b99b4469b86b9e79b0e106")]
 [assembly: System.Reflection.AssemblyProductAttribute("RpgMysticalforge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RpgMysticalforge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
