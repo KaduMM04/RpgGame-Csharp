@@ -14,8 +14,8 @@ namespace RpgMysticalforge.Models
 
         public void GainXp(int xp) {
             CurrentXp += xp;
-            while (CurrentLevel >= XpToNextLevel()) {
-                CurrentLevel -= XpToNextLevel();
+            while (CurrentXp >= XpToNextLevel()) {
+                CurrentXp -= XpToNextLevel();
                 CurrentLevel++;
             }
         }
